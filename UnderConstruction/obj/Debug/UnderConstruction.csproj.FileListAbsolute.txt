@@ -64,6 +64,6 @@ c:\users\zahid.hasan\documents\visual studio 2015\Projects\UnderConstruction\Und
 c:\users\zahid.hasan\documents\visual studio 2015\Projects\UnderConstruction\UnderConstruction\bin\Microsoft.Owin.Security.Google.xml
 c:\users\zahid.hasan\documents\visual studio 2015\Projects\UnderConstruction\UnderConstruction\bin\Microsoft.Owin.Security.Twitter.xml
 c:\users\zahid.hasan\documents\visual studio 2015\Projects\UnderConstruction\UnderConstruction\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-c:\users\zahid.hasan\documents\visual studio 2015\Projects\UnderConstruction\UnderConstruction\obj\Debug\UnderConstruction.csprojResolveAssemblyReference.cache
 c:\users\zahid.hasan\documents\visual studio 2015\Projects\UnderConstruction\UnderConstruction\obj\Debug\UnderConstruction.dll
 c:\users\zahid.hasan\documents\visual studio 2015\Projects\UnderConstruction\UnderConstruction\obj\Debug\UnderConstruction.pdb
+C:\Users\zahid.hasan\documents\visual studio 2015\Projects\UnderConstruction\UnderConstruction\obj\Debug\UnderConstruction.csprojResolveAssemblyReference.cache
